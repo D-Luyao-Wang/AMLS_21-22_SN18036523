@@ -24,7 +24,7 @@ Images with the same label will be placed in a folder with the same name.
 The data that has been classified can be downloaded directly at the link below
 https://drive.google.com/file/d/1tb78FF5ISQHsbtGaq8ie3x__rQn4h4I3/view?usp=sharing
 
-The file name is `dataforproject`.
+The file name is `preprocessed`.
 
 In this file, the file `task1data` `test` is for Task A.
 
@@ -34,9 +34,9 @@ The file ``dataset`` `testcnn` is for Task A.
 
 ### 2. Task A. Binary classifier
 
-The file name `task1data` in `dataforproject` file is training data for Task A.
+The file name `task1data` in `preprocessed` file is training data for Task A.
 
-The file name `test` in `dataforproject` file is testing data for Task A.
+The file name `test` in `preprocessed` file is testing data for Task A.
 
 
 `task1svm.ipynb`  use Support Vector Machine to build binary classifier 
@@ -49,9 +49,9 @@ The file name `test` in `dataforproject` file is testing data for Task A.
 
 ### 3.Task A. Binary classifier
 
-The file name `dataset` in `dataforproject` file is training data for Task B.
+The file name `dataset` in `preprocessed` file is training data for Task B.
 
-The file name `testcnn` in `dataforproject` file is testing data for Task B.
+The file name `testcnn` in `preprocessed` file is testing data for Task B.
 
 
 `task2knn.ipynb` use K-Nearest Neighbor (KNN) algorithm to build muti-class classifier 
