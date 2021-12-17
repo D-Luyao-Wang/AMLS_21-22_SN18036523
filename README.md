@@ -17,6 +17,7 @@ For muti-calss classifier, the goal is to classify meningioma tumor, glioma tumo
 Images with the same label will be placed in a folder with the same name.
 
 `Image_file_change.ipynb` is used to split the training data. 
+
 `Image_file_change_test.ipynb` is used to split the test data. 
 
 
@@ -24,7 +25,9 @@ The data that has been classified can be downloaded directly at the link below
 https://drive.google.com/file/d/1tb78FF5ISQHsbtGaq8ie3x__rQn4h4I3/view?usp=sharing
 
 The file name is `dataforproject`.
+
 In this file, the file `task1data` `test` is for Task A.
+
 The file ``dataset`` `testcnn` is for Task A.
 
 
