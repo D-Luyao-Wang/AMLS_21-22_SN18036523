@@ -7,20 +7,23 @@ Applied Machine Learning Systems ELEC0134 (21/22) Assignment
 
 
 
-# brief introduction of the task
+## 1.brief introduction of the task
 
 
 
 
 
-# description of the organization of the files
+## 2. description of the organization of the files
 
 
 
-# The role of each file
+## 3.The role of each file
 
 
-# How to run  code
+## 4. How to run  code
+‘task1knn.pynb’
+
+
 
 
  # Necessary packages or header files 
