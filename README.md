@@ -2,7 +2,7 @@
 Applied Machine Learning Systems ELEC0134 (21/22) Assignment
 
 
-The project can be downloaded via the link below
+The all project images and code can be downloaded via the link below
 https://drive.google.com/file/d/1dftU2xYFre5RpPa8F-BfunCVtsQKk-8_/view?usp=sharing
 
 
