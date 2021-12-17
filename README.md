@@ -1,6 +1,12 @@
 # AMLS_21-22_SN18036523
 Applied Machine Learning Systems ELEC0134 (21/22) Assignment
 
+
+The project can be downloaded via the link below
+https://drive.google.com/file/d/1dftU2xYFre5RpPa8F-BfunCVtsQKk-8_/view?usp=sharing
+
+
+
 ## 1.brief introduction of the task
 
 This project is to do two tumor classifiers, binary classifier and muti-calss classifier.
@@ -20,6 +26,8 @@ Images with the same label will be placed in a folder with the same name.
 
 `Image_file_change_test.ipynb` is used to split the test data. 
 
+
+The data in `originaldata` file is original data which can be used for `Image_file_change.ipynb` and `Image_file_change_test.ipynb`
 
 The data that has been classified can be downloaded directly at the link below
 https://drive.google.com/file/d/1tb78FF5ISQHsbtGaq8ie3x__rQn4h4I3/view?usp=sharing
